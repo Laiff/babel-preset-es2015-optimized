@@ -1,5 +1,5 @@
 {
-  "name": "babel-preset-es2015-webpack-loose",
+  "name": "babel-preset-es2015-optimized",
   "version": "6.11.5",
   "description": "Babel preset for all es2015-webpack plugins, with loose mode enabled where available.",
   "homepage": "https://babeljs.io/",
