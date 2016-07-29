@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-es2015-optimized",
-  "version": "6.11.6",
+  "version": "6.11.7",
   "description": "Babel preset for all es2015-webpack plugins, with loose mode enabled where available.",
   "homepage": "https://babeljs.io/",
   "author": "Andrew Laiff \"q.laiff@gmail.com\"",
@@ -14,10 +14,10 @@
     "test": "node ./test | tap-spec"
   },
   "dependencies": {
-    "babel-plugin-transform-es2015-modules-commonjs-optimized": "^6.11.5",
     "modify-babel-preset": "^1.0.0"
   },
   "peerDependencies": {
+    "babel-plugin-transform-es2015-modules-commonjs-optimized": "*",
     "babel-preset-es2015-loose": "*"
   },
   "devDependencies": {
